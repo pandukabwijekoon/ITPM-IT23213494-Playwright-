@@ -1,4 +1,4 @@
 GitHub Repository Link:
-https://github.com/USERNAME/Singlish-Translator-Automation-Testing
+https://github.com/pandukabwijekoon/ITPM-IT23213494-Playwright-.git
 
-(Note: Please create a public repository on GitHub and upload the contents of the 'assignment' folder there.)
+Registration Number: IT23213494
